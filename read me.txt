@@ -1,0 +1,28 @@
+I have done all my programming in spyder..
+
+For section 1:Lion Tale
+	if at any time it got stuck, means that when there is no path to reach the goal state then i am just stopping it(not inside infinite loop,as it leads to application crash in my system)and printing that goal is not reachable... PFA the code dfs,bfs,vcs,a*
+
+For section2:Bonus problem:
+	I have implemented it using cartpole, For A* search I am using the same code as decribed in section 1 
+
+
+for section3:GA problem:
+
+refer my code for this problem...
+
+
+
+
+for section4:worduku puzzle:
+for Backtracking Search refer my code :
+Min_Conflict Search refer my code
+I am also using enchant for finding any of word,if possible
+
+In case of Min_conflict search,sometimes the solution is not generated, so i suggest you to please either increase the steps or run the program again and again so get the output....I got my answer by running this algorithm multiple times and also increased the steps..so I suggest if you increase the steps,then it may take time,if your processor is slow 
+
+In the Worduku, I am reading a input file and printing the output in different file,name as per given in assignment...
+
+
+
+
