@@ -1,0 +1,9 @@
+* D * * * * A G I
+* * B * * H * E D
+* * F * * E * * H
+* H * * G * I A *
+* E * * I * * C *
+* A I * F * * D *
+C * * D * * G * *
+E G * A * * B * *
+I B H * * * * F *

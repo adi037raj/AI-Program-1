@@ -1,0 +1,3 @@
+Total 5 solution
+All are named as per given in question..
+for bonus problem,if your gpu is slow then it may take some time to display the cartpole(in my computer the cartpole come after the goal node is reached,my computer doesnt have gpu)
